@@ -1,0 +1,1 @@
+Jupyter Notebook that downloads the latest data on the coronavirus in germany and creates a plot of the reproduction number against time.
